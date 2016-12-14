@@ -1,5 +1,5 @@
-Docker Fundamentals WebApp : Jenkin's integration : 3
-===================================================
+Docker Fundamentals WebApp : Jenkin's integration : 6
+=====================================================
 
 The Docker Fundamentals repository contains the example Hello World Python WebApp
 
